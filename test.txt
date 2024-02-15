@@ -1,2 +1,2 @@
 # echangeCelia
-Petits exercices avec GITHUB
+print("Helloooo !")
